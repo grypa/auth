@@ -1,0 +1,13 @@
+name: Logowaniegrypa
+version: 1.0
+author: grypa
+main: main.Logowaniegrypa
+commands:
+  login:
+    aliases: [l]
+  register:
+    aliases: [reg]
+  changepassword:
+    aliases: [changepass]
+  logout:
+    aliases: [logoff]

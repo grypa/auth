@@ -1,0 +1,31 @@
+mysql:
+  host: localhost
+  port: 3306
+  user: root
+  pass: ""
+  base: minecraft
+messages:
+  usage: "&8>> &7Poprawne uzycie: &a{USAGE}"
+  logged: "&8>> &7Pomyslnie zalogowano!"
+  changed: "&8>> &7Pomyslnie zmieniono haslo!"
+  registered: "&8>> &7Pomyslnie zarejestrowano!"
+  logout: "&8>> &7Pomyslnie wylogowano!"
+  register: "&8>> &7Zarejestruj sie uzywajac komendy /register <haslo> <haslo>"
+  login: "&8>> &7Zaloguj sie uzywajac komendy /login <haslo>"
+  session: "&8>> &7Zostales automatycznie zalogowany! (sesja logowania)"
+  error:
+    wrong_password: "&4Blad: &cNiepoprawne haslo!"
+    not_registered: "&4Blad: &cNie jestes zarejestrowany!"
+    not_logged: "&4Blad: &cNie jestes zalogowawny!"
+    already_registered: "&4Blad: &cJestes juz zarejestrowany!"
+    already_logged: "&4Blad: &cJestes juz zalogowany!"
+    not_same_password: "&4Blad: &cPodane hasla nie sa takie same!"
+    correct_username: "&4Blad: &cTwoj poprawny nick to: {NAME}"
+    invalid_characters: "&4Blad: &cW podanym hasle sa niedozwolone znaki!"
+    invalid_username: "&4Blad: &cNiepoprawny nick!"
+    no_perm: "&4Blad: &cNie masz uprawnien!"
+    max_accounts: "&4Blad: &cOsiagnales maksymalna liczbe kont na twoim ip!"
+  accounts:
+    max_reg_per_ip: 3
+listeners:
+  move: false

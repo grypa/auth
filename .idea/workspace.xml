@@ -1,18 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="auth:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="828f17a5-b6e1-44bf-8e40-f4aa9b721190" name="Changes" comment="" />
+    <list default="true" id="828f17a5-b6e1-44bf-8e40-f4aa9b721190" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auth.iml" beforeDir="false" afterPath="$PROJECT_DIR$/auth.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cmds/ChangePassword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cmds/ChangePassword.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cmds/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cmds/Login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cmds/Logout.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cmds/Logout.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cmds/Register.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cmds/Register.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/config/Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/config/Config.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/helper/ChatHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/helper/ChatHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/listener/PlayerChatListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/listener/PlayerChatListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/listener/PlayerCommandListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/listener/PlayerCommandListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/listener/PlayerDropItemListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/listener/PlayerDropItemListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/listener/PlayerInteractListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/listener/PlayerInteractListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/listener/PlayerInventoryClickListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/listener/PlayerInventoryClickListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/listener/PlayerInventoryOpenListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/listener/PlayerInventoryOpenListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/listener/PlayerJoinListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/listener/PlayerJoinListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/listener/PlayerMoveListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/listener/PlayerMoveListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/listener/PlayerQuitListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/listener/PlayerQuitListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Logowaniegrypa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Logowaniegrypa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/manager/UserManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/manager/UserManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mysql/SQL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mysql/SQL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/object/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/object/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/plugin.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task/AuthTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task/AuthTask.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="29Rrp6zmemUVuFdnfo0LKbJbizn" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/grypa/Desktop/xzxz/spigot.jar",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.15136719",
+    "project.structure.side.proportion": "0.19655173"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -25,5 +78,16 @@
       <updated>1653086920345</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
